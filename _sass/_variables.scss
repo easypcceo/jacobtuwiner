@@ -45,3 +45,11 @@ $gutter-horizontal: 6rem;
         @media only screen and (min-width: 1800px) { @content };    //1800
     }
 }
+
+@mixin clearfix {
+    &::after {
+        content: "";
+        display: table;
+        clear: both;
+    }
+}
