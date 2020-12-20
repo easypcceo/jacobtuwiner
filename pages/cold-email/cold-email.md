@@ -336,7 +336,8 @@ No pressure.
 
 Here's how I handle a discovery call: 
 
-1. Build Rapport
+### Build Rapport
+
 Building rapport with your prospect is the name of the game. Getting them to like you is half the battle — once they like and trust you, it's game over )assuming you can solve their problem and they can afford you.) 
 
 I like to start out by letting them know I appreciate their time, and asking them a question that'll get them talking about themselves. 
@@ -345,7 +346,7 @@ People love talking about themselves.
 
 At this point, I'll let them talk for as long as they want, building rapport along the way. 
 
-2. Give the One Sentence Pitch 
+### Give the One Sentence Pitch 
 After building rapport, I set the tone for the rest of the call. 
 
 I'll normally say something like:
@@ -358,7 +359,7 @@ Then I'll give them my 30 second pitch about who I am and what I do. That normal
 
 Now that they know who you are and what you do, the rest of the call is all about them. 
 
-3. Learn More About Them and Their Business
+### Learn More About Them and Their Business
 
 Next, I'll ask them to tell me more about their company. 
 
@@ -382,7 +383,7 @@ If that objection comes up, you can say something like:
 
 And if they're not the decision maker, you can get in touch with the right person after the call is over. 
 
-4. Ask About Their Goals 
+### Ask About Their Goals 
 
 This step is crucial — you need to find out about what they want. 
 
@@ -396,7 +397,7 @@ Those are the sorts of questions I ask, but these questions are specific to your
 
 If it aligns with your service, you're in business (literally). 
 
-5. Ask About Their Pain Points 
+### Ask About Their Pain Points 
 
 Why do your customers pay you?
 
@@ -408,7 +409,7 @@ Figuring out what their problems are is a crucial part of the discovery process.
 
 Either way, you're gathering crucial data that'll help you down the road. 
 
-6. Ask About Past Work 
+### Ask About Past Work 
 
 When I was selling SEO services, I'd ask about any past work they'd done, whether they did it themselves or hired someone to do it for them. 
 
@@ -416,7 +417,7 @@ Asking about past work was a great way to learn about what worked well, and what
 
 In addition, you can usually ask them how much they were spending on the past work, which will give you a feel for their budget before having to ask. 
 
-7. Ask for a Budget 
+### Ask for a Budget 
 
 Whatever you do, don't talk about budget until the end of the call. You want to build rapport and learn more about their needs and wants before discussing price. 
 
@@ -438,7 +439,7 @@ You have built rapport, know more about their business, have figured out exactly
 
 Now it's time for the last step: 
 
-8. Schedule a Follow Up Call 
+### Schedule a Follow Up Call 
 
 If the prospect sounds like a good fit, make sure to schedule a follow up call to go over your proposal. 
 
