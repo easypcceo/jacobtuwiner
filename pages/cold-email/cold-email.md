@@ -4,6 +4,8 @@ title: Best Cold Email Template for Sales 2020 (to Make Millions)
 permalink: /cold-email/
 ---
 
+![cold email cover image](/img/cold-email/cover.jpg){: .img-middle}
+
 Here's the deal:
 
 Cold email is NOT dead. I used it to close 10+ clients in just 2 months — and in this guide I'm going to show you exactly how I did it, and how you can too. 
@@ -43,7 +45,7 @@ Over $36,000 in sales in just 2 months.
 Here's exactly how it works: 
 
 ## How to Cold Email
-![cold email cover image](/img/cold-email/cover.jpg){: .img-middle}
+![cold email cartoon](/img/cold-email/cartoon.jpg)
 
 Like any other successful marketing campaign, it all begins with a sound strategy. 
 
@@ -56,6 +58,7 @@ Instead, you need to come up with a plan of attack, which is why I begin by stra
 Here's what you need to do:
 
 ### Identify a Scalable Case Study
+![case study](/img/cold-email/case-study.png)
 
 First, you need to find a case study that's scalable, meaning you can do something similar for other agencies. 
 
@@ -83,6 +86,7 @@ He was stoked with the result, and she received her first testimonial from a rep
 That brings us to the next step: 
 
 ### Determine Your Target 
+![determine your target](/img/cold-email/target.jpg)
 
 With your case study in hand it's time to determine who you're selling to — I'm going to continue using my ex-girlfriend for the rest of this example. 
 
@@ -110,13 +114,16 @@ Once you have your target nailed down, it's time to find a lead pool.
 
 You can use a tool like LinkedIn Sales Navigator for this step, as it's an awesome tool. However, I prefer to find a lead pool online instead. 
 
-A lead pool is a place online where your target customer hangs out. Since I'm primarily selling to digital agencies, I primarily use Clutch.co as a lead pool. It's a place where digital agencies hang out that probably want marketing services (since they're listed on a directory). 
+A lead pool is a place online where your target customer hangs out. Since I'm primarily selling to digital agencies, I primarily use Clutch.co as a lead pool. 
+
+It's a place where digital agencies hang out that probably want marketing services (since they're listed on a directory). 
 
 My ex-girlfriend looked up "top travel companies" and found this insane lead pool over 1,000 companies to work with. The lead pool even has advanced filters she can use to get super specific with her targeting. 
 
 Once you find a lead pool like that, you've struck gold. 
 
 ### Create a 'Yes' Offer
+![great offer](/img/cold-email/offer.png){: .img-right}
 
 Alright, at this point you: 
 
@@ -139,6 +146,7 @@ Once you find the one, you'll know it because people will be buying like crazy. 
 After coming up with your 'yes' offer, you're going to be (practically) unstoppable. 
 
 ### Outreach 
+![outreach](/img/cold-email/outreach.png)
 
 With your leads recorded and offer in mind, it's time to reach out. 
 
@@ -178,6 +186,7 @@ Moral of the story?
 Don't talk about yourself, talk about them instead. 
 
 ## Crafting an Outreach Email 
+![sample email](/img/cold-email/sample.png)
 
 When it comes time to craft an outreach email, there's no "one size fits all" template, which is why I hate seeing a bunch of "best cold email template" blog posts and YouTube videos everywhere.
 
@@ -237,6 +246,7 @@ Once you hit your numbers, you can scale up your campaign and book consistent me
 By the way, the email template shown above is not mine — it was created by an awesome guy named Alex Berman over at Experiment 27. He's insane at cold email and has a ton of value-oozing content on his channel.
 
 ## Optimizing Open Rate 
+![optimizing open rate](/img/cold-email/open-rate.png)
 
 Open rate is the first metric you want to look at. If you're not getting opened, you're not getting replied to and you're definitely not getting meetings booked.
 
@@ -309,6 +319,7 @@ Anyway, once you hit your numbers, you can scale up your campaign and book a ton
 But don't make the mistake of using a winning email campaign on an entirely different industry. What works selling to hairdressers probably won't work selling to fortune 500 CEOs. Keep that in mind. 
 
 ## Discovery Call
+![discovery call](/img/cold-email/discovery.jpg)
 
 Now it's time to close some deals! 
 
@@ -341,12 +352,15 @@ After building rapport, I set the tone for the rest of the call.
 I'll normally say something like:
 
 "On this phone call I'd like to learn more about your business and what motivated you to get on the phone today. Assuming it's a good fit, we'll schedule a follow up call to discuss a custom plan for you, and if it's not a good fit, that's perfectly fine too. Sound good?"
+
 Then I'll give them my 30 second pitch about who I am and what I do. That normally sounds something like this: 
 
 "My name is Jacob Tuwiner. When I was 19, I started an SEO agency that primarily focused on link building. I was terrific at email outreach, booking meetings, and getting clients, but building links sucked and I didn't see it as a viable path forward. Instead, I decided to help other business owners book meetings for their agencies instead."
+
 Now that they know who you are and what you do, the rest of the call is all about them. 
 
 3. Learn More About Them and Their Business
+
 Next, I'll ask them to tell me more about their company. 
 
 What do they do? 
@@ -366,9 +380,11 @@ While these objections sometimes have some truth to them, they're usually a vers
 If that objection comes up, you can say something like:
 
 "It seems like you need to consult with your partner before moving forward to make sure you're not stepping on anybody's toes. That makes a lot of sense. On the last call, you told me you were the decision maker — what's changed since then?"
+
 And if they're not the decision maker, you can get in touch with the right person after the call is over. 
 
 4. Ask About Their Goals 
+
 This step is crucial — you need to find out about what they want. 
 
 Since I sell meetings with my customers' ideal clients, I'll ask questions to learn more about their desire to grow their business.  
@@ -382,6 +398,7 @@ Those are the sorts of questions I ask, but these questions are specific to your
 If it aligns with your service, you're in business (literally). 
 
 5. Ask About Their Pain Points 
+
 Why do your customers pay you?
 
 They want you to solve their problems for them. 
@@ -393,6 +410,7 @@ Figuring out what their problems are is a crucial part of the discovery process.
 Either way, you're gathering crucial data that'll help you down the road. 
 
 6. Ask About Past Work 
+
 When I was selling SEO services, I'd ask about any past work they'd done, whether they did it themselves or hired someone to do it for them. 
 
 Asking about past work was a great way to learn about what worked well, and what didn't work so well. Sometimes they'll tell you about a nightmare experience that you should do everything in your power to avoid. 
@@ -400,6 +418,7 @@ Asking about past work was a great way to learn about what worked well, and what
 In addition, you can usually ask them how much they were spending on the past work, which will give you a feel for their budget before having to ask. 
 
 7. Ask for a Budget 
+
 Whatever you do, don't talk about budget until the end of the call. You want to build rapport and learn more about their needs and wants before discussing price. 
 
 And if you're in the B2B space, you should frame their budget as an investment, not an expense. After all, if you're a good businessman, you'll help them make more money. 
@@ -421,6 +440,7 @@ You have built rapport, know more about their business, have figured out exactly
 Now it's time for the last step: 
 
 8. Schedule a Follow Up Call 
+
 If the prospect sounds like a good fit, make sure to schedule a follow up call to go over your proposal. 
 
 You don't want to hang up without a time nailed down because you'll end up chasing them down with a flurry of cold emails just to schedule a time. 
