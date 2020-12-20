@@ -36,7 +36,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: bold;
 
   line-height: 1.7;
-  margin: 1em 0 15px;
+  margin: .5em 0 15px;
   padding: 0;
 
   @include mobile {
@@ -45,7 +45,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 30px;
+  font-size: 36px;
   margin-top: -35px;
   a {
     color: inherit;
@@ -53,11 +53,11 @@ h1 {
 }
 
 h2 {
-  font-size: 24px;
+  font-size: 30px;
 }
 
 h3 {
-  font-size: 20px;
+  font-size: 26px;
 }
 
 h4 {
