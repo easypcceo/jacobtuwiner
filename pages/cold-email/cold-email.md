@@ -187,7 +187,7 @@ That being said, you can still apply a general framework to your outreach email.
 
 Here's a cold email template for a meeting if you're selling to service business owners: 
 
-<blockquote><p>Hi {name},
+<i>Hi {name},
 
 {personalized first line about them}
 
@@ -199,7 +199,7 @@ Here's a cold email template for a meeting if you're selling to service business
 
 Thanks for your time {name},
 {signature}
-</p></blockquote>
+</i>
 
 This email framework is usually less than 100 words. It works incredibly well because it's short, sweet, and to the point. 
 
@@ -207,7 +207,7 @@ It's a value-oozing email that says a lot, with a little — in other words, it 
 
 In practice, it looks something like this: 
 
-<blockquote><p>Hi John,
+<i>Hi John,
 
 Congrats on winning the Executive of the Year award — your peers had nothing but great things to say about you.
 
@@ -218,8 +218,7 @@ Recently helped another SEO agency implement a cold email outreach campaign whic
 Mind if I send over a few times for a quick call to discuss?
 
 Thanks for your time John,
-Jacob Tuwiner
-</p></blockquote>
+Jacob Tuwiner</i>
 
 Make sure to craft several different versions of your email script. This way you'll be able to A/B test them later on. 
 
