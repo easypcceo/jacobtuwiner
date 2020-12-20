@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Best Cold Email Template for Sales 2020 (to Make Millions)
+title: Best Cold Email Template for Sales 2020 (Make Millions)
 permalink: /cold-email/
 ---
 
@@ -196,19 +196,18 @@ That being said, you can still apply a general framework to your outreach email.
 
 Here's a cold email template for a meeting if you're selling to service business owners: 
 
-<i>Hi {name},
+<i>Hi {name},</i>
 
-{personalized first line about them}
+<i>{personalized first line about them}</i>
 
-{Who I am and what I do in 1 sentence}
+<i>{Who I am and what I do in 1 sentence}</i>
 
-{1 sentence case study relevant to their industry}
+<i>{1 sentence case study relevant to their industry}</i>
 
-{Call To Action ending with a ?}
+<i>{Call To Action ending with a ?}</i>
 
-Thanks for your time {name},
-{signature}
-</i>
+<i>Thanks,</i>
+<i>{signature}</i>
 
 This email framework is usually less than 100 words. It works incredibly well because it's short, sweet, and to the point. 
 
@@ -216,18 +215,18 @@ It's a value-oozing email that says a lot, with a little — in other words, it 
 
 In practice, it looks something like this: 
 
-<i>Hi John,
+<i>Hi John,</i>
 
-Congrats on winning the Executive of the Year award — your peers had nothing but great things to say about you.
+<i>Congrats on winning the Executive of the Year award — your peers had nothing but great things to say about you.</i>
 
-My name is Jacob and I help digital agency owners book more meetings with their ideal clients.
+<i>My name is Jacob and I help digital agency owners book more meetings with their ideal clients.</i>
 
-Recently helped another SEO agency implement a cold email outreach campaign which resulted in more than $21,000 in sales after 2 months. Would love to help Agency Name do the same.
+<i>Recently helped another SEO agency implement a cold email outreach campaign which resulted in more than $21,000 in sales after 2 months. Would love to help Agency Name do the same.</i>
 
-Mind if I send over a few times for a quick call to discuss?
+<i>Mind if I send over a few times for a quick call to discuss?</i>
 
-Thanks for your time John,
-Jacob Tuwiner</i>
+<i>Thanks,</i>
+<i>Jacob Tuwiner</i>
 
 Make sure to craft several different versions of your email script. This way you'll be able to A/B test them later on. 
 
