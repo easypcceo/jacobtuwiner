@@ -43,6 +43,7 @@ Over $36,000 in sales in just 2 months.
 Here's exactly how it works: 
 
 ## How to Cold Email
+![cold email cover image](/img/cold-email/cover.jpg){: .img-middle}
 
 Like any other successful marketing campaign, it all begins with a sound strategy. 
 
