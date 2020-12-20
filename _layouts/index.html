@@ -1,25 +1,6 @@
 <!DOCTYPE html>
 <html>
   <head>
-
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-F7GFKESLRL"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-F7GFKESLRL');
-</script>
-
-<script type="text/javascript">
-    window._mNHandle = window._mNHandle || {};
-    window._mNHandle.queue = window._mNHandle.queue || [];
-    medianet_versionId = "3121199";
-</script>
-<script src="https://contextual.media.net/dmedianet.js?cid=8CU43298T" async="async"></script>
-
-
     <title>{% if page.seotitle %}{{ page.seotitle }} {% else %} {{ page.title }} {% endif %}</title>
 
     {% include meta.html %}
@@ -27,33 +8,17 @@
     <!--[if lt IE 9]>
       <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
     <link href="https://fonts.googleapis.com/css?family=Lato:400,400i,700" rel="stylesheet">
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-    <link rel="manifest" href="/site.webmanifest">
-    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
-    <meta name="ahrefs-site-verification" content="3105cf5fdf3fd2569b94d4146fff097da3eebb619973f0e5d3f5e56799e22db4">
-    <meta name="msapplication-TileColor" content="#da532c">
-    <meta name="theme-color" content="#ffffff">
-    <script src="https://unpkg.com/lazysizes@4.1.6/lazysizes.js" async></script>
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
-    <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
-
     <script src="https://code.jquery.com/jquery-3.5.0.min.js" ></script>
     <script src="/js/mobile-nav.js"></script>
   </head>
 
   <body>
-  	<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MX8QJZ2"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
-    <div class="wrapper-masthead static">
+    <div class="wrapper-masthead">
       <div class="container">
         <header class="masthead clearfix">
           <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
@@ -88,7 +53,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       </div>
     </div>
 
-    <div id="main" role="main" class="container">
+    <div class="hero">
+      <div class="hero-content">
+        <h2 class="text-center">Welcome to Easy PC</h2>
+        <p class="text-center">Building a PC, Made Easy</p>
+        <div class="btn-center">
+  <a class="big-button" href="/budget-pcs/">Build Your Dream PC</a>
+</div>
+      </div>
+    </div>
+
+    <div id="main" role="main">
       {{ content }}
     </div>
 
@@ -101,7 +76,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           {% endfor %}
           </div>
           <div class="icons">
-            {% include svg-icons.html %}
+            {% include svg-icons.html %}           
           </div>
         </footer>
       </div>

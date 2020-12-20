@@ -1,0 +1,32 @@
+
+- name: Gaming PCs 
+  url: /budget-pcs/
+  subcategories:
+    - subtitle: "CPUs"
+      subhref: "/cpu/"
+    - subtitle: "Cases"
+      subhref: "/pc-cases/"
+    - subtitle: "Motherboards"
+      subhref: "/motherboard/"
+
+- name: Game Hosting
+  url: /game-hosts/
+  subcategories:
+    - subtitle: "Rust Hosting"
+      subhref: "/game-hosts/rust/"
+    - subtitle: "ARK Hosting"
+      subhref: "/game-hosts/ark/"
+    - subtitle: "Terraria Hosting"
+      subhref: "/game-hosts/terraria/"
+    - subtitle: "DayZ Hosting"
+      subhref: "/game-hosts/dayz/"
+    - subtitle: "TF2 Hosting"
+      subhref: "/game-hosts/tf2/"
+    - subtitle: "Arma 3 Hosting"
+      subhref: "/game-hosts/arma-3/"
+    - subtitle: "Space Engineers Hosting"
+      subhref: "/game-hosts/space-engineers/"
+    - subtitle: "Unturned Hosting"
+      subhref: "/game-hosts/unturned/"
+    - subtitle: "7 Days to Die Hosting"
+      subhref: "/game-hosts/7-days-to-die/"
