@@ -299,8 +299,10 @@ footer {
 }
 
 .img-middle {
-  margin: 0 auto;
-  max-width: 60%;
+    max-width: 50%;
+    text-align: center;
+    margin: auto;
+    display: block;
 }
 
 /* grid */

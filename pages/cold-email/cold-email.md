@@ -4,7 +4,7 @@ title: Best Cold Email Template for Sales 2020 (Make Millions)
 permalink: /cold-email/
 ---
 
-![cold email cover image](/img/cold-email/cover.jpg){: .img-middle}
+![cold email cover image](/img/cold-email/cover.jpg){: .img-right}
 
 Here's the deal:
 
