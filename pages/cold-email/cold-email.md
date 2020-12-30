@@ -18,6 +18,10 @@ In this article, you're not only going to see an example of the best cold email 
 
 Let's get started: 
 
+<div class="vid-container">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/kyutqVfOjTU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Stop Relying on Word of Mouth 
 
 A sales pipeline filled with qualified buyers is the key to agency growth, and yet too many agency owners can't grow past a certain point because they rely solely on referrals for new business (85% according to Entrepreneur).
