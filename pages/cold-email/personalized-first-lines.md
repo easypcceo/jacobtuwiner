@@ -4,6 +4,7 @@ title: How to Cold Email for Clients (2020)
 permalink: /cold-email/personalized-first-lines/
 seotitle: "How to Personalize Cold Emails (10x More Replies)"
 ---
+![personalized first lines and cold emails](/img/cold-email/personalized-first-lines/cold-email-polar-bear.jpg){: .img-right}
 
 Here's the deal:
 
@@ -22,6 +23,7 @@ In this post, I'm going to teach you how to personalize your cold emails so you 
 Let's dive in:  
 
 ## Is Cold Emailing Effective?
+![cold email](/img/cold-email/personalized-first-lines/cold-email.jpg){: .img-right}
 
 Despite all of the bots, spam, poorly written scripts and typos that plague the channel, cold email is the most effective way to reach your target audience in a B2B selling situation. 
 
@@ -54,6 +56,7 @@ It's a no-brainer.
 In this post, we're going to talk more about personalizing your emails, specifically with first lines, but I'd like to touch on the basics of personalization as well. 
 
 ## How to Personalize Sales Emails
+![personalized email example](/img/cold-email/personalized-first-lines/personalized-email.png)
 
 No matter what, never send a fully generic outreach message. 
 
@@ -76,6 +79,7 @@ Personalizing your outreach emails is key for success.
 Let's talk about the basics of personalization: 
 
 ### Name
+![personalized first name example](/img/cold-email/personalized-first-lines/first-name.png)
 
 If you're not at least addressing your prospects by name, you're already making a huge mistake. Dale Carnegie's all-time best seller, "How to Win Friends and Influence People" talks abou the importance of using people's names when talking to them. 
 
@@ -96,6 +100,7 @@ Send 50 emails to the same market with, and without the first name included, cha
 I guarantee your campaign with their first name included will perform better than the generic campaign. 
 
 ### Company
+![company name example](/img/cold-email/personalized-first-lines/company-name.png)
 
 Including their company name in the email is also a big one, though it's not as important as the first name. Still, most effective sales emails mention their company name, either in the subject line or in the body of the email, or both.
 
@@ -114,6 +119,7 @@ Using the company name in the email is effective, especially if you use it in th
 But spelling it improperly, with weird capitalization or odd extensions like LLC, is a surefire way to turn off your prospect.
 
 ### Custom, Specific Compliment
+![first line sample](/img/cold-email/personalized-first-lines/first-line-sample.png)
 
 Your first line will make or break your entire outreach campaign.
 
@@ -146,6 +152,7 @@ Which would you rather receive in your inbox?
 Exactly. Write your custom first lines. 
 
 ### PS Line 
+![ps line sample](/img/cold-email/personalized-first-lines/ps-line.png)
 
 PS Lines are a crafty way to add easy personalization to your emails. Not all niches love the PS line, so you need to test this for yourself, but when it works, it works VERY well.
 
@@ -263,6 +270,7 @@ But if that person books a call with you, make sure you actually listen to the e
 It'd be odd if you hopped on a sales call with someone after telling them you listened to their interview, when in reality you didn't listen to more than a few minutes. 
 
 ### Where to Research Your Prospects for First Lines
+![LinkedIn](/img/cold-email/personalized-first-lines/linkedin.png)
 
 Finding the information you need for your first lines is pretty easy in most niches, though some are definitely harder than others. 
 
