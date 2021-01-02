@@ -296,6 +296,10 @@ footer {
   width: 35%;
   height: auto;
   margin-left: 2rem;
+  @media (max-width: 480px) {
+    float: none;
+    margin: auto;
+  }
 }
 
 .img-middle {
