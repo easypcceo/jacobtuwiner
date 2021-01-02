@@ -51,6 +51,11 @@
       <div class="container">
         <footer class="footer">
           {% include svg-icons.html %}
+          <div class="footer-menu">
+        {% for item in site.data.footer %}
+        <a href="{{ site.baseurl }}{{ item.url }}">{{ item.name }}</a>
+        {% endfor %}
+      </div>
         </footer>
       </div>
     </div>
