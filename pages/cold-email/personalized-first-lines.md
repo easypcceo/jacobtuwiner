@@ -1,6 +1,6 @@
 ---
 layout: page
-title: How to Cold Email for Clients (2020)
+title: How to Personalize Cold Emails with Customized First Lines
 permalink: /cold-email/personalized-first-lines/
 seotitle: "How to Personalize Cold Emails (10x More Replies)"
 ---
