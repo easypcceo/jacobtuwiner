@@ -168,6 +168,14 @@ But generally speaking, PS lines are another easy way to add personalization and
 
 ## How to Write Amazing First Lines
 
+<div class="quick-tip">
+	<h4>Get The First Line Writing Cheat Sheet!</h4>
+	<p>If you want to write first lines that book meetings quickly and easily, I'm giving away the exact training document that I made for my first line writers.</p>
+	<p>It walks you through, step-by-step, exactly how to write the perfect first line, every time, with Loom video tutorials and explainer videos.</p>
+	<p>It's free - all you have to do is click this link and subscribe to my email list, and I'll send the training document over to you immediately.</p>
+	<p>Happy cold emailing :)</p>
+</div>
+
 Writing amazing first lines is one of the keys to a successful cold email campaign, and yet most people skip this crucial step, and those who do implement first lines go about it all wrong.
 
 In this section of the post, I'd like to explain everything you need to know about amazing first lines. And after writing thousands of them myself, it's safe to say I know a thing or two about the framework of a great first line.
