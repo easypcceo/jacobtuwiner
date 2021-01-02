@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Best Cold Email Template for Sales 2020 (Make Millions)
+title: How to Cold Email for Clients (2020)
 permalink: /cold-email/
+seotitle: "How to Cold Email for Clients in 2020 (Guide)"
 ---
 
 ![cold email cover image](/img/cold-email/cover.jpg){: .img-right}
