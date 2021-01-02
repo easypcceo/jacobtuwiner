@@ -172,7 +172,7 @@ But generally speaking, PS lines are another easy way to add personalization and
 	<h4>Get The First Line Writing Cheat Sheet!</h4>
 	<p>If you want to write first lines that book meetings quickly and easily, I'm giving away the exact training document that I made for my first line writers.</p>
 	<p>It walks you through, step-by-step, exactly how to write the perfect first line, every time, with Loom video tutorials and explainer videos.</p>
-	<p>It's free - all you have to do is click this link and subscribe to my email list, and I'll send the training document over to you immediately.</p>
+	<p>It's free - all you have to do is <a href="subscribe.com">click this link</a> and subscribe to my email list, and I'll send the training document over to you immediately.</p>
 	<p>Happy cold emailing :)</p>
 </div>
 
