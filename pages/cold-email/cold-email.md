@@ -276,7 +276,7 @@ With an 80% open rate, that's 80 opens and 16 replies. Not too shabby.
 
 The best way to increase your open rate is testing different subject lines. Send small batches of emails — between 10 and 20 at a time — testing a different subject line. 
 
-Having a personalized first line of an email also helps, since your targets will see your subject line and a preview of the first line. 
+Having a personalized [first line](/cold-email/personalized-first-lines/) of an email also helps, since your targets will see your subject line and a preview of the first line. 
 
 Using neutral subject lines that get them to open without turning them off is pretty important. 
 

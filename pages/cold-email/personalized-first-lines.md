@@ -12,9 +12,9 @@ If you're struggling to book meetings and get clients with cold email due to low
 
 Generic, spam emails won't work - but personalized, custom cold emails are a powerful tool in any salesperson's toolbox. 
 
-My name is Jacob Tuwiner and I'm with Experiment 27 - to date, we've sent several million cold emails, and know everything there is to know about the anatomy of a cold email that closes deals. 
+My name is Jacob Tuwiner and I'm with [Experiment 27](https://www.x27marketing.com/){: target="_blank"} - to date, we've sent several million cold emails, and know everything there is to know about the anatomy of a cold email that closes deals. 
 
-In fact, Experiment 27's founders have used cold email to generate over $100MM for our clients in the last five or so years.
+In fact, Experiment 27's founders have used [cold email](/cold-email/) to generate over $100MM for our clients in the last five or so years.
 
 Personalization is one of our biggest tips for those looking to book meetings with cold email. 
 
@@ -45,7 +45,7 @@ No customization.
 
 If you're not customizing your cold emails whatsoever, you'll never stand out among the crowd. 
 
-But even a custom field here and there isn't going to cut it - your prospects can almost always tell you merged their first name and company name with a tool like MixMax. 
+But even a custom field here and there isn't going to cut it - your prospects can almost always tell you merged their first name and company name with a tool like [MixMax](https://www.mixmax.com/){: target="_blank"}. 
 
 Instead, you need to take it one step further, and write an entirely custom first line for every outreach email, all about your target. 
 
@@ -81,7 +81,7 @@ Let's talk about the basics of personalization:
 ### Name
 ![personalized first name example](/img/cold-email/personalized-first-lines/first-name.png)
 
-If you're not at least addressing your prospects by name, you're already making a huge mistake. Dale Carnegie's all-time best seller, "How to Win Friends and Influence People" talks abou the importance of using people's names when talking to them. 
+If you're not at least addressing your prospects by name, you're already making a huge mistake. [Dale Carnegie](https://en.wikipedia.org/wiki/Dale_Carnegie){: target="_blank"}'s all-time best seller, "How to Win Friends and Influence People" talks abou the importance of using people's names when talking to them. 
 
 You're trained to respond to your name since the day you were born. It's an instinct. And according to Dale Carnegie, your name is the sweetest word in the English language.
 
