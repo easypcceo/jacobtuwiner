@@ -288,7 +288,7 @@ footer {
     float: left;
 
     a {
-      color: #fff;
+      color: black;
       font-size: 14px;
       margin-right: 15px;
     }
@@ -419,3 +419,18 @@ footer {
     cursor: pointer;
    }
   }
+
+input[type="text"], input[type="email"] {
+  clear: both;
+  margin-bottom: 10px;
+  padding: 5px;
+  width: 100%;
+}
+
+textarea[type="message"] {
+  clear: both;
+  margin-bottom: 10px;
+  min-height: 100px;
+  padding: 5px;
+  width: 100%;
+}
