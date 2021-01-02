@@ -78,6 +78,14 @@ Personalizing your outreach emails is key for success.
 
 Let's talk about the basics of personalization: 
 
+<div class="quick-tip">
+	<h4>Get The First Line Writing Cheat Sheet!</h4>
+	<p>If you want to write first lines that book meetings quickly and easily, I'm giving away the exact training document that I made for my first line writers.</p>
+	<p>It walks you through, step-by-step, exactly how to write the perfect first line, every time, with Loom video tutorials and explainer videos.</p>
+	<p>It's free - all you have to do is <a href="https://www.subscribepage.com/firstlinetraining">click this link</a> and subscribe to my email list, and I'll send the training document over to you immediately.</p>
+	<p>Happy cold emailing :)</p>
+</div>
+
 ### Name
 ![personalized first name example](/img/cold-email/personalized-first-lines/first-name.png)
 
@@ -172,7 +180,7 @@ But generally speaking, PS lines are another easy way to add personalization and
 	<h4>Get The First Line Writing Cheat Sheet!</h4>
 	<p>If you want to write first lines that book meetings quickly and easily, I'm giving away the exact training document that I made for my first line writers.</p>
 	<p>It walks you through, step-by-step, exactly how to write the perfect first line, every time, with Loom video tutorials and explainer videos.</p>
-	<p>It's free - all you have to do is <a href="subscribe.com">click this link</a> and subscribe to my email list, and I'll send the training document over to you immediately.</p>
+	<p>It's free - all you have to do is <a href="https://www.subscribepage.com/firstlinetraining">click this link</a> and subscribe to my email list, and I'll send the training document over to you immediately.</p>
 	<p>Happy cold emailing :)</p>
 </div>
 
@@ -337,7 +345,15 @@ Here's the framework for the best personalized sales email template:
 
 <i>{call to action asking for a meeting}</i>
 
-If you stick to that framework in your outreach email, you'll be good to go. 
+If you stick to that framework in your outreach email, you'll be good to go.
+
+<div class="quick-tip">
+	<h4>Get The First Line Writing Cheat Sheet!</h4>
+	<p>If you want to write first lines that book meetings quickly and easily, I'm giving away the exact training document that I made for my first line writers.</p>
+	<p>It walks you through, step-by-step, exactly how to write the perfect first line, every time, with Loom video tutorials and explainer videos.</p>
+	<p>It's free - all you have to do is <a href="https://www.subscribepage.com/firstlinetraining">click this link</a> and subscribe to my email list, and I'll send the training document over to you immediately.</p>
+	<p>Happy cold emailing :)</p>
+</div> 
 
 ## Conclusion 
 
