@@ -4,6 +4,7 @@ title: Best Cold Email Follow-Up Sequence (Sales)
 permalink: /cold-email/follow-up/
 seotitle: "3 Best Sales Cold-Email Follow-Up Sequences (2021)"
 ---
+![follow-up email response example](/img/cold-email/follow-up/response.png)
 
 A good cold email follow-up sequence is the difference between winning and losing in sales. In fact, most meetings come not from the initial email, but from an email in your follow-up sequence. 
 
@@ -20,6 +21,7 @@ In this post, we're talking all about the best cold email follow-up sequence so 
 Let's dive in: 
 
 ## What is a Follow-Up Sequence?
+![cold email follow-up stages example](/img/cold-email/follow-up/stages.png){: .img-right}
 
 Your [cold email](/cold-email/) follow-up sequence is a series of emails that are scheduled to send after your initial email goes out to your prospects if they don't respond.
 
@@ -32,6 +34,18 @@ If you can automate anything effectively - you should!
 ## Why Is Your Follow-Up Important?
 
 Your prospect may not respond to your first email - actually, odds are they definitely won't respond to your first email. 
+
+In the example below, my outreach campaign had 100% open rate and a 19% response rate (I booked 5 meetings).
+
+The sequence had 5 emails, and the first three emails in the sequence didn't receive a single response. Not ONE!  
+
+![responses to follow-ups](/img/cold-email/follow-up/responses.png)
+
+This example isn't typical, I usually book a meeting or two from the first one to two emails, but in this case, all of the meetings came from the fourth and fifth follow-up emails. 
+
+It probably had something to with the time of year (I was sending around Christmas time) but either way, you can see how important the follow-ups are here. 
+
+If I hadn't sent the follow-up emails, I wouldn't have landed *a single meeting.* But because I had follow-ups in my sequence, I landed five meetings, and closed a deal. 
 
 This study from [Propeller CRM](https://www.propellercrm.com/blog/cold-email-statistics){: target="_blank"} found that you're 3x more likely to receive a response if you send 4-7 follow-up emails as opposed to only 1-3 follow-up emails. 
 
