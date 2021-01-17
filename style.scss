@@ -421,6 +421,24 @@ footer {
    }
   }
 
+.bonus {
+    background: #feefb3;
+    color: #000;
+    padding: 9px 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    h4 {
+    font-size: 1.5rem;
+    color: black;
+    margin-bottom: -20px;
+   }
+   a {
+    color: #466db2;
+    text-decoration: underline;
+    cursor: pointer;
+   }
+  }
+
 input[type="text"], input[type="email"] {
   clear: both;
   margin-bottom: 10px;

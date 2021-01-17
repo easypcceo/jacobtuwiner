@@ -20,6 +20,10 @@ In this post, we're talking all about the best cold email follow-up sequence so 
 
 Let's dive in: 
 
+<div class="bonus">
+	<p><b>BONUS:</b><a href="https://jacobtuwiner.com/">Click here and get access</a> to the exact follow-up sequence I use to book 10x more meetings than other salespeople.</p>
+</div>
+
 ## What is a Follow-Up Sequence?
 ![cold email follow-up stages example](/img/cold-email/follow-up/stages.png){: .img-right}
 
