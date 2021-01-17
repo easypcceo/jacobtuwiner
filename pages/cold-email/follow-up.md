@@ -7,13 +7,13 @@ seotitle: "3 Best Sales Cold-Email Follow-Up Sequences (2021)"
 
 A good cold email follow-up sequence is the difference between winning and losing in sales. In fact, most meetings come not from the initial email, but from an email in your follow-up sequence. 
 
-Furthermore, most deals are won from the follow-up. Grant Cardone talks about the importance of following up all the time - you may need to follow-up with your potential customer 5, 6 or seven times before they buy. 
+Furthermore, most deals are won from the follow-up. [Grant Cardone](https://grantcardone.com/){: target="_blank"} talks about the importance of following up all the time - you may need to follow-up with your potential customer 5, 6 or seven times before they buy. 
 
 But why listen to me? I'm just some random guy on the internet, right?
 
 Yes, yes I am. But I've also been sending cold emails for years, have closed dozens of deals with cold email, and my response rates are 20x higher than the industry average.
 
-And, I work for Experiment 27, the leader in outbound marketing (we've generated over $100MM for us and our clients in the last 5 years or so…) 
+And, I work for [Experiment 27](https://x27marketing.com/){: target="_blank"}, the leader in outbound marketing (we've generated over $100MM for us and our clients in the last 5 years or so…) 
 
 In this post, we're talking all about the best cold email follow-up sequence so you can book more meetings and win more deals. 
 
@@ -21,7 +21,7 @@ Let's dive in:
 
 ## What is a Follow-Up Sequence?
 
-Your cold email follow-up sequence is a series of emails that are scheduled to send after your initial email goes out to your prospects if they don't respond.
+Your [cold email](/cold-email/) follow-up sequence is a series of emails that are scheduled to send after your initial email goes out to your prospects if they don't respond.
 
 For example, you may send your first email to Mr Prospect on Monday, but you don't hear back from him. Rather than manually reaching out again, your cold email tool (I like MixMax) will automatically send another email on Wednesday, for example. 
 
@@ -33,7 +33,7 @@ If you can automate anything effectively - you should!
 
 Your prospect may not respond to your first email - actually, odds are they definitely won't respond to your first email. 
 
-This study from Propeller CRM found that you're 3x more likely to receive a response if you send 4-7 follow-up emails as opposed to only 1-3 follow-up emails. 
+This study from [Propeller CRM](https://www.propellercrm.com/blog/cold-email-statistics){: target="_blank"} found that you're 3x more likely to receive a response if you send 4-7 follow-up emails as opposed to only 1-3 follow-up emails. 
 
 Considering 75% of your potential customers won't respond to your first email, or second, or third, following-up is the name of the game in sales, and other areas of life too! 
 
@@ -225,7 +225,7 @@ If you've received a response from a prospect in any capacity, whether it's befo
 
 I'll have another post on this topic itself as it warrants its own tutorial, but for the sake of this article, I'll touch on it briefly:
 
-You want to use personalization as much as possible in the follow-ups with prospects who have already responded, as it increases your chances of hearing back from them.
+You want to use [personalization](/cold-email/personalized-first-lines/) as much as possible in the follow-ups with prospects who have already responded, as it increases your chances of hearing back from them.
 
 That being said, much of the same principles still apply here: always provide value without bugging your prospects, and space out your follow-ups between each successive message. 
 
