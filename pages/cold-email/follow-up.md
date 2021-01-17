@@ -4,7 +4,7 @@ title: Best Cold Email Follow-Up Sequence (Sales)
 permalink: /cold-email/follow-up/
 seotitle: "3 Best Sales Cold-Email Follow-Up Sequences (2021)"
 ---
-![follow-up email response example](/img/cold-email/follow-up/response.png)
+![follow-up email response example](/img/cold-email/follow-up/response-1.png)
 
 A good cold email follow-up sequence is the difference between winning and losing in sales. In fact, most meetings come not from the initial email, but from an email in your follow-up sequence. 
 
