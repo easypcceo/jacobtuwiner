@@ -235,6 +235,14 @@ In practice, it looks something like this:
 
 Make sure to craft several different versions of your email script. This way you'll be able to A/B test them later on. 
 
+## Don't Forget the Follow-Up
+
+Your initial email may only garner 10% of the total replies your campaign *could* get if you have great follow-up messages. 
+
+Following-up is an art all by itself, which is why I wrote this post about the [best cold email follow-up sequences](/cold-email/follow-up/) you can use to 10x your response rates.
+
+Enjoy!
+
 ## A/B Testing 
 
 Most people send a few emails, don't book any meetings, and give up. 
