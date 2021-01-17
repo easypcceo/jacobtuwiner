@@ -89,6 +89,7 @@ Four follow-ups (five emails total including the initial email) is usually where
 After your fourth follow-up email, I'd send one email every month until they either respond back with interest or tell you to stop emailing them. 
 
 ## What Time of Day Should You Send Follow-Up Emails?
+![time of day to send follow-up email](/img/cold-email/follow-up/time-of-day.png)
 
 There are certain times of the day that are best for sending cold emails and other times that you should avoid like the plague - however, you won't know which times are best until you test your campaigns to see what works.
 
@@ -140,6 +141,7 @@ This follow-up sequence works like a charm - I use it in my cold email outreach 
 Send 100 emails, and book 7-10 meetings (on average).
 
 ### Follow-Up #1: The "Bump" Email
+![cold email bump follow-up example](/img/cold-email/follow-up/bump.png)
 
 This email is one of the most important and effective emails you can send to a prospect. 
 
@@ -170,6 +172,7 @@ These short but powerful messages will force your prospect to read your last mes
 I can almost guarantee this single message will yield at least half of your campaign's responses.
 
 ### Follow-Up #2: The "Big Win" Email
+![cold email big win follow-up example](/img/cold-email/follow-up/big-win.png)
 
 The "Big Win" email is another good one - in this case, your goal is to let them know that you're always working and getting great results.
 
@@ -213,6 +216,10 @@ But if you call that same millionaire at 3 AM and say "act right now and I'll pr
 Fear of loss is stronger than the hope of gaining what you don't already have, and it makes sense: you can always have more, but once you're dead, well, yeah.
 
 Luckily, you can use this fear of loss to your advantage in your email follow-up sequence. This email is the icing on the cake, and will easily yield almost all of your replies. 
+
+And it worked like a charm in this example:
+
+![cold email breakup follow-up example](/img/cold-email/follow-up/breakup.png)
 
 Here's how it goes:
 
