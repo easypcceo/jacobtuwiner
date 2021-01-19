@@ -3,8 +3,6 @@ layout: page
 title: Best Cold Email Follow-Up Sequence (Sales)
 permalink: /cold-email/follow-up/
 seotitle: "3 Best Sales Cold-Email Follow-Up Sequences (2021)"
-header-img: "/img/cold-email/follow-up/response-1.png"
-subtitle: "Best Cold Email Follow-Up Sequence (Sales)"
 ---
 ![follow-up email response example](/img/cold-email/follow-up/response-1.png)
 
