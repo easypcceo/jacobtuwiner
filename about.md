@@ -330,35 +330,35 @@ I plan on writing a post about each one, in terms of what my role was and what t
 
 <h3> ServiceBell </h3>
 
-I joined ServiceBell excited to take over the world. The founder, Daniel Ternyak, had just leveraged a revolutionary new browser technology to create live website video chat, without downloading an app. 
+<p> I joined ServiceBell excited to take over the world. The founder, Daniel Ternyak, had just leveraged a revolutionary new browser technology to create live website video chat, without downloading an app. 
 
-This unlocked the ability to have a face-to-face meeting with your website visitors on a pricing page or demo request page, significantly reducing friction from the inbound sales cycle. 
+<p> This unlocked the ability to have a face-to-face meeting with your website visitors on a pricing page or demo request page, significantly reducing friction from the inbound sales cycle. 
 
-The platform alerted sales reps when a target account, open deal, etc. was on a high-value page like pricing, and they could proactively call the visitor. 
+<p> The platform alerted sales reps when a target account, open deal, etc. was on a high-value page like pricing, and they could proactively call the visitor. 
 
-The platform has evolved tremendously since I first joined, now offering an AI power dialer (which I largely designed as a product manager) and a host of other features. I also got to create and star in an <a target="_blank" href="https://www.youtube.com/watch?v=fqrqlTArCos&ab_channel=ServiceBell">advertisement for the dialer product</a>. 
+<p> The platform has evolved tremendously since I first joined, now offering an AI power dialer (which I largely designed as a product manager) and a host of other features. I also got to create and star in an <a target="_blank" href="https://www.youtube.com/watch?v=fqrqlTArCos&ab_channel=ServiceBell">advertisement for the dialer product</a>. 
 
-I joined before we had a repeatable GTM motion, a critical first step for a seed-startup. First, I set up the outbound motion. We came up with several hypotheses on the best target market for our product. I hit the phones, and eventually found a repeatable process to book meetings.
+<p> I joined before we had a repeatable GTM motion, a critical first step for a seed-startup. First, I set up the outbound motion. We came up with several hypotheses on the best target market for our product. I hit the phones, and eventually found a repeatable process to book meetings.
 
-Next, we had to close the deals. We struggled at first, but one simple change in our sales process helped us tremendously... Instead of asking them to sign-up self-serve and pay themselves, we just sent them a Stripe link and then onboarded them. That made the difference between losing 30 meetings in a row, and closing 1/5. 
+<p> Next, we had to close the deals. We struggled at first, but one simple change in our sales process helped us tremendously... Instead of asking them to sign-up self-serve and pay themselves, we just sent them a Stripe link and then onboarded them. That made the difference between losing 30 meetings in a row, and closing 1/5. 
 
-Looking back, it's funny how such a small change made such a big impact. 
+<p> Looking back, it's funny how such a small change made such a big impact. 
 
-Anyway, after about a year, I moved more into product management. We hired junior outbound reps who were managed by yours truly, while I was also focused on product management. 
+<p> Anyway, after about a year, I moved more into product management. We hired junior outbound reps who were managed by yours truly, while I was also focused on product management. 
 
-I worked with sales, marketing, engineering, leadership, and customers, aligning everyone towards building the right product to solve the right problem.
+<p> I worked with sales, marketing, engineering, leadership, and customers, aligning everyone towards building the right product to solve the right problem.
 
-During this time, I spoke with tons of GTM leaders and learned about their problems. I also learned a lot about APIs and integrations, as I led the HubSpot integration initiative at ServiceBell. 
+<p> During this time, I spoke with tons of GTM leaders and learned about their problems. I also learned a lot about APIs and integrations, as I led the HubSpot integration initiative at ServiceBell. 
 
-While managing SDRs at ServiceBell, I always had to choose between quality outreach (manual, slow, inefficient) or a "spray-and-pray" approach, which didn't work either. 
+<p> While managing SDRs at ServiceBell, I always had to choose between quality outreach (manual, slow, inefficient) or a "spray-and-pray" approach, which didn't work either. 
 
-Then, I found Clay... and fell in love. It solved a problem I'd faced as a rep and a manager. My background in tech and GTM was the perfect blend. I took the to platform quickly, despite others taking a while to ramp.
+<p> Then, I found Clay... and fell in love. It solved a problem I'd faced as a rep and a manager. My background in tech and GTM was the perfect blend. I took the to platform quickly, despite others taking a while to ramp.
 
-People started noticing on LinkedIn. Some of my posts neared 100k impressions (back when Clay was first appearing on LinkedIn). 
+<p> People started noticing on LinkedIn. Some of my posts neared 100k impressions (back when Clay was first appearing on LinkedIn). 
 
-Folks started paying me for consulting, and <a target="_blank" href="https://www.sculpted.agency/">Sculpted</a> was born. 
+<p> Folks started paying me for consulting, and <a target="_blank" href="https://www.sculpted.agency/">Sculpted</a> was born. 
 
-We help B2B SaaS companies fuel their GTM with the best data on the market (powered by <a target="_blank" href="https://www.clay.com/">Clay</a>). 
+<p> We help B2B SaaS companies fuel their GTM with the best data on the market (powered by <a target="_blank" href="https://www.clay.com/">Clay</a>). 
 
 <i>What I learned at ServiceBell:</i>
 
@@ -373,6 +373,6 @@ We help B2B SaaS companies fuel their GTM with the best data on the market (powe
 
 <h3> Sculpted </h3>
 
-Now, I'm running Sculpted. We work with leading B2B SaaS companies like Sendoso, Workramp, and more, fueling their automated outbound motion and GTM team with Clay data. 
+<p> Now, I'm running Sculpted. We work with leading B2B SaaS companies like Sendoso, Workramp, and more, fueling their automated outbound motion and GTM team with Clay data. 
 
-Looking forward to what's next! 
+<p>Looking forward to what's next! 
