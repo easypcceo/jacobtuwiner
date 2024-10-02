@@ -20,13 +20,13 @@ Three clients later I dropped out of college and went on a 7 month trip around t
 
 Within 30 days I'd closed 8 clients using outbound marketing and was over the moon - I learned how to book meetings, talk to customers and close sales. Unfortunately, my fulfillment team wasn't squared away, and delivering those services became a challenge. I had to stop selling so I could catch up.
 
-Fast forward to now - I realized my passion for sales, and my distaste for client fulfillment. I'd much rather talk to customers, understand their problems, and help them achieve their goals.
+I realized my passion for sales, and my distaste for client fulfillment. I'd much rather talk to customers, understand their problems, and help them achieve their goals.
 
 I sold Easy PC to focus on sales full-time, and joined [Experiment 27](https://x27marketing.com/){: target="_blank"} as a full cycle sales rep. I brought in ~$1MM in contracted revenue within 6 months, self-sourced via cold email. 
 
 Client delivery didn't go well (yet again), and I wanted to join a different type of company.
 
-That's where I joined <a target="_blank" href="https://www.servicebell.com/">ServiceBell</a> (now rebranding to <a target="_blank" href="https://www.rep.ai">rep.ai</a>). I started out as the first GTM hire there. I took the outbound motion 0-1. I tried tons of different strategies to generate pipeline, but found success cold calling sales and marketing leaders at B2B SaaS companies. As the outbound motion became more repeaetable, we hired SDRs, and I moved more into a product management and product marketing role. 
+One year after joining Experiment 27, I joined <a target="_blank" href="https://www.servicebell.com/">ServiceBell</a> (now rebranding to <a target="_blank" href="https://www.rep.ai">rep.ai</a>). I started out as the first GTM hire there. I took the outbound motion 0-1. I tried tons of different strategies to generate pipeline, but found success cold calling sales and marketing leaders at B2B SaaS companies. As the outbound motion became more repeaetable, we hired SDRs, and I moved more into a product management and product marketing role. 
 
 I led the charge on the HubSpot integration, spoke with tons of GTM leaders and rev ops folks at B2B SaaS companies, and learned a lot about the blend of GTM and technology. I was there for two years, and learned a ton along the way. 
 
@@ -36,7 +36,7 @@ Then, I found Clay... and fell in love. It solved a problem I'd faced as a rep a
 
 People started noticing on LinkedIn. Some of my posts neared 100k impressions (back when Clay was first appearing on LinkedIn). 
 
-Folks started paying me for consulting, and Sculpted was born. 
+Folks started paying me for consulting, and Sculpted was born two years after joining ServiceBell. 
 
 We help B2B SaaS companies fuel their GTM with the best data on the market (powered by <a target="_blank" href="https://www.clay.com/">Clay</a>). 
 
