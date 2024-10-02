@@ -4,7 +4,7 @@ title: About Jacob Tuwiner
 permalink: /about/
 ---
 
-<img class="img-right" style="border-radius: 5px;" src="/img/profile/jacob.jpg">
+<img class="img-right" style="border-radius: 5px;" src="/img/profile/wedding.png">
 
 After working as a dishwasher/line cook at the [Market Table Bistro](https://www.markettablebistro.com/){: target="_blank"} for one year, I learned a ton about hard work, discipline, organization, and teamwork.
 
@@ -14,19 +14,31 @@ The blog reached over 30k/users per month within the first year, and when its in
 
 Alongside working on Easy PC, I was a freelance writer at [Cryptoslate](https://cryptoslate.com/){: target="_blank"} for one year, posting weekly articles on cryptocurrency/blockchain news, coin reviews, etc. During my time there I even had the honor of interviewing Jake Yocom-Piatt, the founder of Decred.
 
-After high school, I attended [Towson University](https://www.towson.edu/){: target="_blank"} pursuing a bachelor's degree in computer science, but one year in and college definitely wasn't for me. By my second semester, I was working hard to get SEO consulting clients and quit school.
+After high school, I attended [Towson University](https://www.towson.edu/){: target="_blank"} pursuing a bachelor's degree in computer science, but one year in and college definitely wasn't for me. By my second semester, I was working hard to get SEO consulting clients and quit school. While on campus, I met the campus rabbi, who (little did I know at the time) would change my life forever... But that's a story for another day.  
 
-Three clients later I dropped out of college and went on a 7 month trip around the world as a digital nomad. Along the way I spent time in Israel, Italy, Netherlands, Poland, Hungary and Romania. That's also when I started [Tuwiner SEO](https://tuwinerseo.com/){: target="_blank"}, a link outreach business.
+Three clients later I dropped out of college and went on a 7 month trip around the world as a digital nomad. Along the way I spent time in Israel, Italy, Netherlands, Poland, Hungary and Romania. That's also when I started an SEO backlink outreach business.
 
 Within 30 days I'd closed 8 clients using outbound marketing and was over the moon - I learned how to book meetings, talk to customers and close sales. Unfortunately, my fulfillment team wasn't squared away, and delivering those services became a challenge. I had to stop selling so I could catch up.
 
 Fast forward to now - I realized my passion for sales, and my distaste for client fulfillment. I'd much rather talk to customers, understand their problems, and help them achieve their goals.
 
-I sold Easy PC to focus on sales full-time, and recently joined [Experiment 27](https://x27marketing.com/){: target="_blank"} taking on a sales role. We help digital agencies and other B2B businesses book meetings with billion dollar brands and scale their companies to the moon.
+I sold Easy PC to focus on sales full-time, and joined [Experiment 27](https://x27marketing.com/){: target="_blank"} as a full cycle sales rep. I brought in ~$1MM in contracted revenue within 6 months, self-sourced via cold email. 
 
-Future gameplan?
+Client delivery didn't go well (yet again), and I wanted to join a different type of company.
 
-Help a lot of people make more money and make some myself along the way - then, I can take my experience in the world of sales to start my own company one day (service business, SaaS tool, consulting, not sure yet). Either way, excited for what the future holds! 
+That's where I joined <a target="_blank" href="https://www.servicebell.com/">ServiceBell</a> (now rebranding to <a target="_blank" href="https://www.rep.ai">rep.ai</a>). I started out as the first GTM hire there. I took the outbound motion 0-1. I tried tons of different strategies to generate pipeline, but found success cold calling sales and marketing leaders at B2B SaaS companies. As the outbound motion became more repeaetable, we hired SDRs, and I moved more into a product management and product marketing role. 
+
+I led the charge on the HubSpot integration, spoke with tons of GTM leaders and rev ops folks at B2B SaaS companies, and learned a lot about the blend of GTM and technology. I was there for two years, and learned a ton along the way. 
+
+While managing SDRs at ServiceBell, I always had to choose between quality outreach (manual, slow, inefficient) or a "spray-and-pray" approach, which didn't work either. 
+
+Then, I found Clay... and fell in love. It solved a problem I'd faced as a rep and a manager. My background in tech and GTM was the perfect blend. I took the to platform quickly, despite others taking a while to ramp.
+
+People started noticing on LinkedIn. Some of my posts neared 100k impressions (back when Clay was first appearing on LinkedIn). 
+
+Folks started paying me for consulting, and Sculpted was born. 
+
+We help B2B SaaS companies fuel their GTM with the best data on the market (powered by <a target="_blank" href="https://www.clay.com/">Clay</a>). 
 
 This is the full story:
 
@@ -77,17 +89,7 @@ I plan on writing a post about each one, in terms of what my role was and what t
 
 <p>I posted Call of Duty gameplay commentary videos.</p> 
 
-<p>My first videos were pretty bad to say the least, not just because of the production quality, but the content itself.</p>
-
-<p>If I could sum them up with 1 word, it'd be cringe. </p>
-
-<p>I used YouTube as my therapist to vent about everything going on in my life, from the stupid things I was doing to the girls that put me in the friendzone. </p>
-
-<p>Little did I know, some of the people I was talking about in the videos, saw the videos… yeah that was hairy. That's when I learned the internet is public, and once something is on the internet, you can't take it back. </p>
-
-<p>Eventually I pivoted from storytime commentaries to videos about computers. I had become interested in PC gaming, and I was learning a lot about building gaming PCs. </p>
-
-<p>I started posting YouTube videos talking about the best gaming PC build for different budgets, like the best gaming PC under 700 dollars. </p>
+<p>Those commentaries turned into videos talking about the best gaming PC build for different budgets, like the best gaming PC under 700 dollars. </p>
 
 <p>The videos did well – they started getting hundreds, then thousands, and some tens of thousands of views. I was ecstatic.</p>
 
@@ -114,7 +116,6 @@ I plan on writing a post about each one, in terms of what my role was and what t
 <i>Lessons I Learned from YouTube:</i>
 
 <ol>
-<li>Everything on the internet is public and permanent </li>
 <li>If you understand search engines, you can get a lot of eyeballs on your content</li>
 <li>Companies will pay you a lot of money for sending them customers </li>
 <li>I got my first taste of passive income </li>
@@ -159,16 +160,14 @@ I plan on writing a post about each one, in terms of what my role was and what t
 	<li>Cooking is awesome!</li>
 </ol>
 
-<p>You can read the full story of my time at the Bistro by clicking here.</p>
-
 <h3>Easy PC</h3>
 <img src="/img/easy-pc/home.png">
 
-<p>This is where things get interesting – Easy PC was the beginning of the next chapter of my life. The lessons I learned from creating this blog have carried me to where I am today, hands down. 
+<p>This is where things get interesting – <a target="_blank" href="https://www.easypc.io/">Easy PC</a> was the beginning of the next chapter of my life. The lessons I learned from creating this blog have carried me to where I am today, hands down. 
 
-<p>In order to explain what gave me the inspiration to create the site, I need to talk about my oldest cousin Jordan. 
+<p>In order to explain what gave me the inspiration to create the site, I need to talk about my oldest cousin <a target="_blank" href="https://www.jordantuwiner.com">Jordan</a>. 
 
-<p>Jordan is the owner of Buy Bitcoin Worldwide, an authority website in the Bitcoin space. He teaches people how to buy cryptocurrency, and when someone clicks one of his affiliate links to use an exchange he recommends, the exchange pays him a commission. 
+<p>Jordan is the owner of <a target="_blank" href="https://www.buybitcoinworldwide.com">Buy Bitcoin Worldwide</a>, an authority website in the Bitcoin space. He teaches people how to buy cryptocurrency, and when someone clicks one of his affiliate links to use an exchange he recommends, the exchange pays him a commission. More rcenetly, he laos started <a target="_blank" href="https://www.bitbo.io">Bitbo</a></p>
 
 <p>He was the first one in my family to pursue this kind of lifestyle, and for that I am eternally grateful. He's my older cousin, but I view him as more of a role model than anything. 
 
@@ -192,7 +191,7 @@ I plan on writing a post about each one, in terms of what my role was and what t
 
 <p>I reached out to big blog owners, and some of them mentioned my new website on theirs with a link. You can think of a link as a vote of popularity that helps Google understand that your site deserves to show up on the first page. 
 
-<p>Google noticed, and traffic started coming in. Check out this graph: 
+<p>Google noticed, and traffic started coming in. 
 
 <p>My site exploded pretty quickly considering it was brand new. I remember how I felt when I made my first dollar from the website. I couldn't believe it, but I knew I was just getting started.
 
@@ -202,9 +201,11 @@ I plan on writing a post about each one, in terms of what my role was and what t
 
 <p>I continued working on Easy PC, but unfortunately I got side tracked by other pursuits that I'm going to discuss further down on this page.</p>
 
-<p>Long story short, the site's traffic died off significantly for several reasons, one of which being a lost of interest on my part.</p>
+<p>Long story short, the site's traffic died off significantly for several reasons, one of which being a loss of interest on my part.</p>
 
-<p>However, I revived the traffic recently and broke records over the last few months, before selling the project to focus full-time on B2B sales, more on that in a bit.</p>
+<p>However, I revived the traffic and broke records, before selling the project to focus full-time on B2B sales.</p>
+
+<p> I relealized learning to sell was probably the best most valuable tool I could have in my toolbelt, whether I wanted to start a big business one day, or work for one... you're always selling. That's why I joined Experiment 27. More on that in a bit.</p> 
 
 <i>What I learned from Easy PC:</i>
 
@@ -263,7 +264,7 @@ I plan on writing a post about each one, in terms of what my role was and what t
 
 <p>Shortly before the summer came, I officially incorporated my business as Tuwiner SEO, Inc. </p>
 
-<p>The summer came, I packed my bags, and left for Israel to start my 7 month long trip working and traveling. </p>
+<p>I packed my bags, and left for Israel to start my 7 month long trip working and traveling. </p>
 
 <p>It was initially supposed to be an SEO agency, where I help people rank their websites in Google. </p>
 
@@ -273,7 +274,7 @@ I plan on writing a post about each one, in terms of what my role was and what t
 
 <p>After spending a ton of time sending outreach emails for Easy PC, I knew a thing or two about link outreach.</p>
 
-<p>I started working on an outreach process and began training people to take the process off my hands. At the time I was still trying to do SEO consulting work - in fact, I kept changing my mind about what I wanted to do, as usual. </p>
+<p>I started working on an outreach process and began training people to take the process off my hands. At the time I was still trying to do SEO consulting work. </p>
 
 <p>My cousin Austin asked me why I kept switching around. He told me I'm doing well with link outreach so I should try sticking with it. </p>
 
@@ -304,16 +305,74 @@ I plan on writing a post about each one, in terms of what my role was and what t
 
 <h3>Experiment 27</h3>
 
-<p>Now I'm working with Robert Indries and Alex Berman of <a href="https://www.x27marketing.com">Experiment 27</a>, a B2B marketing agency for ambitious companies that want to grow. </p>
+<p>That's when I joined Experiment 27 as a full-cycle salesperson. I worked with Robert Indries and Alex Berman of <a href="https://www.x27marketing.com">Experiment 27</a>, the co-founders of the agency.</p>
 
-<p>I reach out to prospects, book meetings and close deals on a commission basis, and it's been awesome so far.</p>
+<p>I reached out to prospects, booked meetings and closed deals on a commission basis.</p>
 
-<p>I'm only one month in, yet I've already learned a ton about sales, and signed my first client within two weeks, and there are plenty more in the pipeline. </p>
+<p> During my time there, I brought in $1MM in contracted revenue in 6 months, 90% of which was self-sourced via cold email and closed by yours truly.</p>
 
-<p>Probably the best part about this is the sales training I'm receiving from the CEO, which I'll carry with me for the rest of my days. </p>
+<p> We had fulfillment issues, and many clients churned. I moved into operations at the 6 month mark to try and save the operation, but realized it wasn't salvagable. </p>
 
-<p>My goal for 2021: </p>
+<p> After a year there, a personal friend of mine who'd just raised a few million dollars from Google Ventures asked me to join his startup, <a target="_blank" href="https://www.servicebell.com/">ServiceBell</a> (Now rebranding to Rep.ai). </p>
 
-<p>Help others generate $100MM in sales, which means I need to close $10MM in sales, or around 100 deals per year (a bit more than eight per month).</p>
+<p>Running a sales process over and over again, with coaching from one of the best salespeople I know, helped me tremendously.</p>
 
-<p>We'll see if I can get there! And if I fail, at least I tried my best and will likely have still done well (a few million in closed business isn't bad!)</p>
+<p>In fact, the sales training was the best part about the gig. That, and learning how to manage the stress of unhappy clients... I'll carry this experience with me for the rest of my days. </p>
+
+
+<i>What I learned at Experiment 27:</i>
+
+<ol>
+	<li>Things aren't always as great as they first appear on the outside. You never know what's going on behind closed doors</li>
+	<li>It's impossible to please 100% of your customers. Do your best, and don't let the unhappy ones get to you</li>
+	<li>The art and science of full-cycle outbound sales</li> 
+</ol>
+
+<h3> ServiceBell </h3>
+
+I joined ServiceBell excited to take over the world. The founder, Daniel Ternyak, had just leveraged a revolutionary new browser technology to create live website video chat, without downloading an app. 
+
+This unlocked the ability to have a face-to-face meeting with your website visitors on a pricing page or demo request page, significantly reducing friction from the inbound sales cycle. 
+
+The platform alerted sales reps when a target account, open deal, etc. was on a high-value page like pricing, and they could proactively call the visitor. 
+
+The platform has evolved tremendously since I first joined, now offering an AI power dialer (which I largely designed as a product manager) and a host of other features. I also got to create and star in an <a target="_blank" href="https://www.youtube.com/watch?v=fqrqlTArCos&ab_channel=ServiceBell">advertisement for the dialer product</a>. 
+
+I joined before we had a repeatable GTM motion, a critical first step for a seed-startup. First, I set up the outbound motion. We came up with several hypotheses on the best target market for our product. I hit the phones, and eventually found a repeatable process to book meetings.
+
+Next, we had to close the deals. We struggled at first, but one simple change in our sales process helped us tremendously... Instead of asking them to sign-up self-serve and pay themselves, we just sent them a Stripe link and then onboarded them. That made the difference between losing 30 meetings in a row, and closing 1/5. 
+
+Looking back, it's funny how such a small change made such a big impact. 
+
+Anyway, after about a year, I moved more into product management. We hired junior outbound reps who were managed by yours truly, while I was also focused on product management. 
+
+I worked with sales, marketing, engineering, leadership, and customers, aligning everyone towards building the right product to solve the right problem.
+
+During this time, I spoke with tons of GTM leaders and learned about their problems. I also learned a lot about APIs and integrations, as I led the HubSpot integration initiative at ServiceBell. 
+
+While managing SDRs at ServiceBell, I always had to choose between quality outreach (manual, slow, inefficient) or a "spray-and-pray" approach, which didn't work either. 
+
+Then, I found Clay... and fell in love. It solved a problem I'd faced as a rep and a manager. My background in tech and GTM was the perfect blend. I took the to platform quickly, despite others taking a while to ramp.
+
+People started noticing on LinkedIn. Some of my posts neared 100k impressions (back when Clay was first appearing on LinkedIn). 
+
+Folks started paying me for consulting, and <a target="_blank" href="https://www.sculpted.agency/">Sculpted</a> was born. 
+
+We help B2B SaaS companies fuel their GTM with the best data on the market (powered by <a target="_blank" href="https://www.clay.com/">Clay</a>). 
+
+<i>What I learned at ServiceBell:</i>
+
+<ol>
+	<li>How to perservere through challenge, uncertainty, and volatility</li>
+	<li>Broke into the SaaS industry</li>
+	<li>Learned a ton about GTM</li>
+	<li>Prioritize ruthlessly</li>
+	<li>I can use API and webhook properly in a sentence ;)</li>
+	<li>The intersection of GTM and technology</li> 
+</ol>
+
+<h3> Sculpted </h3>
+
+Now, I'm running Sculpted. We work with leading B2B SaaS companies like Sendoso, Workramp, and more, fueling their automated outbound motion and GTM team with Clay data. 
+
+Looking forward to what's next! 
